@@ -1,7 +1,9 @@
 # LazerBot
 
 ## Game Overview
-The game was developed with Unreal Engine 5 in third-person 3D, using Blueprints. The game starts in a room that acts like a small tutorial: the player can move different objects and test the laser properties, as a preparation for the real game. However, the player must view the instructions and game controls in the main menu before beginning the tutorial. The player must then go through each of the three levels of the game, having three different tasks to perform. Each task will involve either lasers or cubes, or both. For the first and third level, there will be a UI to show the player their progress. 
+<p align=justify>
+The game was developed with Unreal Engine 5 in third-person 3D, using Blueprints. The game starts in a room that acts like a small tutorial: the player can move different objects and test the laser properties, as a preparation for the real game. However, the player must view the instructions and game controls in the main menu before beginning the tutorial. The player must then go through each of the three levels of the game, having three different tasks to perform. Each task will involve either lasers or cubes, or both. For the first and third level, there will be a UI to show the player their progress.
+</p>
 
 ## Features
 * Laser mechanics - laser beams can be blocked, reflected or redirected (depending on the type of object interacting with the beam)
